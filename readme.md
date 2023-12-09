@@ -87,23 +87,6 @@ The project aims to build two classification models, ALBERT and DistilBERT, for 
 
 ---
 
-## Key Concepts Explored
-
-1. Understanding the business problem.
-2. Overview of BERT and its limitations.
-3. Understanding the ALBERT model, a lightweight BERT variant for self-supervised learning of language representations.
-4. Understanding Factorized Embedding Parametrization, Cross Layer Parameter Sharing, and Sentence Order Prediction.
-5. Importing data from the Hugging Face library.
-6. Data pre-processing techniques.
-7. Building ALBERT and DistilBERT models, including model fine-tuning.
-8. Evaluating models based on performance metrics.
-9. Evaluating models on unseen data (test data).
-10. Saving the models.
-11. Creating BERT, ALBERT, and DistilBERT models on a different dataset.
-12. Conducting a comparative study across multiple models.
-
----
-
 ## Getting Started
 
 1. Install the required packages stated in the `requirements.txt` file:
